@@ -1,0 +1,36 @@
+# Vivado Generated Files
+
+# Cache / build / temp
+*.cache/
+*.hw/
+*.runs/
+*.sim/
+*.ip_user_files/
+*.gen/
+*.Xil/
+
+# Logs & journals
+*.log
+*.jou
+*.str
+
+# Backup files
+*.backup.*
+*.bak
+
+# Simulation output
+*.wdb
+*.vcd
+*.wcfg
+
+# Bitstream and hardware output (optional - remove if you want them tracked)
+*.bit
+*.bin
+
+# Vivado auto-generated directories
+.vivado/
+.webtalk/
+
+# OS files
+.DS_Store
+Thumbs.db
