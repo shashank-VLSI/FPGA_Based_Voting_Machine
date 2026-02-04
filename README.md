@@ -174,11 +174,6 @@ vvp voting_tb
 * Implement authentication or voter ID system
 * Add UART / wireless result transmission
 
----
-
-## 📜 License
-
-This project is open for educational and research purposes.
 
 ---
 
